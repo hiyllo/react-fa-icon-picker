@@ -1,5 +1,5 @@
 {
-  "name": "react-fa-icon-picker",
+  "name": "@hiyllo/react-fa-icon-picker",
   "version": "1.0.3",
   "description": "An icon picker for font-awesome icons",
   "main": "dist/index.js",
